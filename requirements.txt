@@ -4,3 +4,5 @@ numpy
 pandas
 pandas
 psycopg2-binary  # For PostgreSQL connection
+python-dotenv
+sqlalchemy

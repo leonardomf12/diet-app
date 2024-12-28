@@ -5,14 +5,11 @@ FROM python:3.9-slim
 WORKDIR /app
 
 # Copy the requirements and install dependencies
-COPY requirements.txt requirements.txt
+COPY requirements.txt main.py /app/
 RUN pip install --no-cache-dir -r requirements.txt
-
-# Copy the app's code into the container
-COPY . .
 
 # Expose the port Dash will run on
 EXPOSE 8050
 
 # Define the command to run the app
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
