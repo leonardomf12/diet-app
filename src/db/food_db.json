@@ -1,0 +1,28 @@
+[
+  {
+    "BaseUnits": "g",
+    "Brand": "Lidl",
+    "Description": "Embalagem 600g - 24/25 fatias",
+    "Name": "Pão integral lidl",
+    "price": [
+      {
+        "units": 100,
+        "price_per_unit": 1.5
+      }
+    ],
+    "units": {
+      "slice" : {
+        "unit": 20,
+        "kcals": 61,
+        "protein": 2.4,
+        "carbhid": 10.5,
+        "fat": 0.8},
+      "100g" : {
+        "unit": 100,
+        "kcals": 265,
+        "protein": 9,
+        "carbhid": 49,
+        "fat": 3.2}
+  }
+  }
+]

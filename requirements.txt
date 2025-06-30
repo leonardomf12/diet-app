@@ -1,8 +1,17 @@
+
+IPython
 dash
 dash_table
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
 numpy
 pandas
 pandas
-psycopg2-binary  # For PostgreSQL connection
+plotly
+psycopg2-binary
 python-dotenv
+requests
 sqlalchemy
+tabulate
+tqdm
