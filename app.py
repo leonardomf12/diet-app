@@ -3,11 +3,12 @@ from dash import dcc, html, dash_table
 import pandas as pd
 
 from src.html_components import DietApp
+import dash_bootstrap_components as dbc
 
 app_obj = DietApp()
 
-app = dash.Dash(__name__)
-app.layout = app_obj.get_layout
+app = dash.Dash(external_stylesheets=[dbc.themes.GRID])
+app.layout = app_obj.weekly_layout
 # app.layout = html.Div([
 #     dcc.Tabs([
 #         dcc.Tab(label='Food Table', children=[

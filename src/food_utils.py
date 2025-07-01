@@ -94,7 +94,7 @@ class Meal:
 
 
 
-def load_food_db(root = "food_db.json"):
+def load_food_db(root = "src/db/food_db.json"):
     with open(root, 'r') as f:
         food_db = json.load(f)
 
