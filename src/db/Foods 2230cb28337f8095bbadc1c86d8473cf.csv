@@ -1,0 +1,24 @@
+﻿Food Name,Brand,Description,Tag,BaseUnit,Price,PriceUnit,BaseQty,kcal,Protein,Fat,Carbs,Protein/kcal
+Frango,,,"Meat, Protein-rich",g,,,,,,,,0
+Carne Picada,,,"Meat, Protein-rich",g,,,,,,,,0
+Salcichas,,,Meat,g,,,,,,,,0
+Atum em óleo,Pingo-doce,,,each,,,1,170,21,9.4,0,0.123529411765
+Ovos,,,,g,,,,,,,,0
+Clara de Ovos,,,Protein-rich,ml,,,,,,,,0
+Pão Integral,Lidl,A minha PADARIA sempre saboroso,Carbs,g,,,100,242,10.3,3.4,39.6,0.042561983471
+Queijo,Milbona - Flamengo dos açores,,,g,,,100,349,23.9,27.9,0.5,0.068481375358
+Iogurte de Proteína (35g),Lidl -Milbona,chocolate,Protein-rich,ml,,,100,67,10.6,0.3,5.3,0.158208955224
+Pudim de Café,,,Protein-rich,g,,,,,,,,0
+Arroz Vaporizado,Lidl,Campo Largo,Carbs,g,,,100,350,7.4,1.2,76.9,0.021142857143
+Massa Fusilli,Lidl,Combino,Carbs,g,,,100,350,12.5,1.2,70.5,0.035714285714
+Batata Normal,,,Carbs,g,,,,,,,,0
+Batata Doce,,,Carbs,g,,,,,,,,0
+Maçã,,,Fruit,g,,,,,,,,0
+Banana,,,Fruit,g,,,,,,,,0
+Melancia,,,Fruit,g,,,,,,,,0
+Melão,,,Fruit,g,,,,,,,,0
+Kiwi,,,Fruit,g,,,,,,,,0
+Proteína Coffee & Caramel,HSN,evowhey 2.0,Suplementation,g,,,100,361,76,3.2,7.5,0.210526315789
+Chicória & Café,Lidl,Bellarom,Caffee,g,,,100,322,11,0.5,59,0.034161490683
+Manteiga de Amendoim,BIO - Lidl,maribel,,g,,,100,612,25.8,51.3,11.7,0.042156862745
+Aveia,cemporcento,Flocos finos,,g,,,100,367,12.1,8.4,56.1,0.032970027248
